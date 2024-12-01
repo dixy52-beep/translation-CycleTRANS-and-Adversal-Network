@@ -53,3 +53,6 @@ CycleTrans is an open-source project! Feel free to fork, submit issues, and crea
 - Add new language support
 - Update documentation
 - Report bugs or suggest features
+
+## Publications
+[\[Translating Unknown Languages is now possible with AI - medium article (2024)\]](https://medium.com/@dbrunori5/translating-unknown-scripts-is-now-possible-with-ai-bbe147580f33) 
