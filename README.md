@@ -26,15 +26,25 @@ CycleTrans architecture consists of:
 
 ## 💻 Getting Started
 
-### Prerequisites:
-- Python 3.x
-- PyTorch
-- Hugging Face Transformers
-- Google Colab or Jupyter Notebook (for easy use)
+### Running the Notebook:
+To try out the model, you can run the **CycleTrans notebook** in Google Colab or locally:
 
-### Installation:
+Run the notebook for training, evaluation, and testing on your own datasets.
 
-Clone the repository:
-```bash
-git clone https://github.com/yourusername/CycleTrans.git
-cd CycleTrans
+## 📚 Citation
+If you use CycleTrans in your work, please consider citing this project:
+
+@misc{cycletrans2024,
+  author = Davide Brunori,
+  title = {CycleTrans: Unpaired Language Translation with Adversarial and Cycle Consistency},
+  year = {2024},
+  url = {https://github.com/dixy52-beep/translation-CycleTRANS-and-Adversal-Network}
+}
+
+## 💡 Contribute
+CycleTrans is an open-source project! Feel free to fork, submit issues, and create pull requests. Contributions are always welcome!
+
+- Improve the model
+- Add new language support
+- Update documentation
+- Report bugs or suggest features
