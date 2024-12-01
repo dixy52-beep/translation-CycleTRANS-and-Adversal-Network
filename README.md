@@ -1,6 +1,6 @@
 # CycleTrans: Unpaired Language Translation with Adversarial and Cycle Consistency
 
-![Random Text Generator GIF](https://github.com/dixy52-beep/translation-CycleTRANS-and-Adversal-Network/main/words.gif)
+![Random Text Generator GIF](https://github.com/dixy52-beep/translation-CycleTRANS-and-Adversal-Network/words.gif)
 
 CycleTrans is an advanced model for **unpaired language translation**, using **adversarial training** and **cycle consistency** to translate between languages without requiring parallel datasets. This model allows seamless translation between languages such as **English** and **Italian** using two separate, unaligned datasets.
 
