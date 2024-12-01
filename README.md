@@ -1,5 +1,5 @@
 # CycleTrans: Unpaired Language Translation with Adversarial and Cycle Consistency
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dixy52-beep/translation-CycleTRANS-and-Adversal-Network/blob/main/CycleTrans.ipynb)
 <p align="center">
   <img src="./words.gif" alt="Words GIF" />
 </p>
