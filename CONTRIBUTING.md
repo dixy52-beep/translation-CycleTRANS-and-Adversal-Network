@@ -24,3 +24,4 @@ We love pull requests! To get started:
 2. Create a new branch for your changes:  
    ```bash
    git checkout -b feature/your-feature-name
+   ```
